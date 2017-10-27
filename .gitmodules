@@ -1,18 +1,18 @@
 [submodule "plugins"]
 	path = plugins
-url=https://github.com/watson-intu/self-plugins.git
+url=https://github.com/philippe-gregoire/self-plugins.git
 [submodule "lib/cpp-sdk"]
 	path = lib/cpp-sdk
 url=https://github.com/watson-intu/cpp-sdk.git
 [submodule "clients/self-java-sdk"]
 	path = clients/self-java-sdk
-url=https://github.com/watson-intu/self-java-sdk.git
+url=https://github.com/philippe-gregoire/self-java-sdk.git
 [submodule "clients/self-python-sdk"]
 	path = clients/self-python-sdk
-url=https://github.com/watson-intu/self-python-sdk.git
+url=https://github.com/philippe-gregoire/self-python-sdk.git
 [submodule "clients/self-javascript-sdk"]
 	path = clients/self-javascript-sdk
-url=https://github.com/watson-intu/self-javascript-sdk.git
+url=https://github.com/philippe-gregoire/self-javascript-sdk.git
 [submodule "clients/self-unity-sdk"]
 	path = clients/self-unity-sdk
 url=https://github.com/watson-intu/self-unity-sdk.git
